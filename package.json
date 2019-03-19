@@ -1,0 +1,12 @@
+{
+  "name": "ncc-bug-firebase",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MAPESO/ncc-bug-firebase",
+  "author": "Markoz Peña Mendez",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "firebase-admin": "^7.1.0"
+  }
+}
